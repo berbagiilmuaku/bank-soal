@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "soal": [
+    {
+      "id": 1,
+      "kategori": "Penjumlahan",
+      "pertanyaan": "Berapakah hasil dari 15 + 8?",
+      "pilihan": [
+        "21",
+        "22",
+        "23",
+        "24"
+      ],
+      "jawaban": "23",
+      "penjelasan": "15 + 8 = 23"
+    },
+    {
+      "id": 2,
+      "kategori": "Pengurangan",
+      "pertanyaan": "Berapakah hasil dari 25 - 7?",
+      "pilihan": [
+        "16",
+        "17",
+        "18",
+        "19"
+      ],
+      "jawaban": "18",
+      "penjelasan": "25 - 7 = 18"
+    },
+    {
+      "id": 3,
+      "kategori": "Perkalian",
+      "pertanyaan": "Berapakah hasil dari 6 x 4?",
+      "pilihan": [
+        "20",
+        "22",
+        "24",
+        "26"
+      ],
+      "jawaban": "24",
+      "penjelasan": "6 \u00d7 4 = 24"
+    }
+  ]
+}
